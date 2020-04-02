@@ -1,8 +1,9 @@
 {
     "name": "fcodedigital/doctrine-enum",
     "description": "Classe ENUM para doctrine migrations",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "library",
+    "license": "MIT",
     "authors": [{
         "name": "FCode",
         "email": "contato@fcode.com.br"
