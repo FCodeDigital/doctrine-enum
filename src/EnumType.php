@@ -1,5 +1,5 @@
 <?php 
-namespace Enum;
+namespace FCodeDigital\Enum;
 
 use Doctrine\DBAL\Types\Type;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
