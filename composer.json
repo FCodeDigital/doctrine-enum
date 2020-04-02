@@ -6,7 +6,7 @@
         "name": "FCode",
         "email": "contato@fcode.com.br"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0",
         "doctrine/dbal": "^2.10"
