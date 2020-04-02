@@ -1,5 +1,5 @@
 {
-    "name": "fcode/doctrine-enum",
+    "name": "fcodedigital/doctrine-enum",
     "description": "Classe ENUM para dpctrine migrations",
     "type": "library",
     "authors": [{
